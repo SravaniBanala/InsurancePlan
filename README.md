@@ -10,7 +10,7 @@ Repository related to development for REST Api prototype model demo work for Ind
 - Maven
 - Redis Server
 - RabbitMQ
-- Elasticsearch and Kibana (Local or cloud-based)
+- Elasticsearch and Kibana
 
 Contents In this project, we will develop a REST Api to parse a JSON schema model divided into three demos
 
