@@ -1,6 +1,6 @@
 # InsurancePlan
 Architecture Diagram
-
+https://github.com/SravaniBanala/InsurancePlan/blob/main/ArchitectureDiagram.pdf
 
 Repository related to development for REST Api prototype model demo work for Indurance plan
 
